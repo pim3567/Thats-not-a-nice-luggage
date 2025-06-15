@@ -1,0 +1,23 @@
+{
+  "version": 2.0,
+  "builds": [
+    {
+      "src": "src/*",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "image/*",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "sound/*",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "src/$1"
+    }
+  ]
+}
