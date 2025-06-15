@@ -4,7 +4,7 @@
 
 **That's Not a Nice Luggage** is a website where users can play a fun game and learn about the rules for packing a bag to bring onto an airplane.
 
-This project was created for the **Intania Hackathon 2025**, organized by the **Faculty of Engineering at Chulalongkorn University**.
+This project was created in **48 hours** for the **Intania Hackathon 2025**, organized by the **Faculty of Engineering at Chulalongkorn University**.
 
 👉 [View Demo](https://thats-not-a-nice-luggage.vercel.app/)
 
